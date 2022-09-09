@@ -1,0 +1,12 @@
+.country{
+  display: flex;
+  justify-content: center;
+    ul{
+      text-align: justify;
+      margin-right: 20px;
+        .item {
+          list-style: none;
+        }
+    }
+}
+
